@@ -1,0 +1,317 @@
+---
+title: "What we (don't) know about the dog-strangling vines (Vincetoxicum spp.)"
+output:
+  word_document: default
+  html_document: default
+bibliography: references.bib
+---
+
+# What we know about the DSV
+
+## Search strategy
+
+-   Web of Science
+
+    -   Search date: **February 18th, 2021**
+
+    -   Search strategy: **TOPIC:** (dog-strangling vine) *OR* **TOPIC:** (*Vincetoxicum rossicum*) *OR* **TOPIC:** (*Cyanchum rossicum*) *OR* **TOPIC:** (pale swallow-wort) *OR* **TOPIC:** (swallow-wort)
+
+    -   Approximate number of hits: \~100+
+
+    -   Time-span: All years (1900 - 2021)
+
+    -   Web of Science Core Collection: Citation Indexes
+
+        -   Science Citation Index Expanded (SCI-EXPANDED) --1900-present,
+
+        -   Social Sciences Citation Index (SSCI) --1900-present,
+
+        -   Arts & Humanities Citation Index (A&HCI) --1975-present,
+
+        -   Conference Proceedings Citation Index- Science (CPCI-S) --1990-present,
+
+        -   Emerging Sources Citation Index (ESCI) --2005-present,
+
+        -   Conference Proceedings Citation Index- Social Science & Humanities (CPCI-SSH) --1990-present,
+
+        -   Book Citation Index-- Science (BKCI-S) --2005-present,
+
+        -   Book Citation Index-- Social Sciences & Humanities (BKCI-SSH) --2005-present,
+
+        -   Emerging Sources Citation Index (ESCI) --2005-present
+
+## **The list**
+
+### Very relevant
+
+-   [@livingstone2020a]: [very relevant]{.ul}, since they do measure plant functional traits as effect traits (community-weighted means and functional diversity) for two important ecosystem functions - flower production and above-ground biomass.
+
+-   [@sodhi2019a]: [very relevant,]{.ul} since they measure plant functional traits as effects for "invasion impacts on [resident] communities". See niche overlap hypothesis [@macdougall2009]. Sodhi and colleagues also measured three family of metrics to test their hypotheses in meadow and understory habitats: community-weighted mean traits, range in trait values (empty niche hypothesis), and distance to invader.
+
+-   [@biazzo2019]: [very relevant]{.ul} since they do measure canopy height and root crown density as response traits to disturbance to see if mowing frequency over many years would be a possible management strategy to reduce population sizes of *Vincetoxicum rossicum*.
+
+-   [@milbrath2019]: [very relevant]{.ul} since they do measure several aboveground plant traits (*i.e.,* root biomass, above-ground biomass: stems, leaves, and follicles, seed number per plant) of *Vincetoxicum rossicum* as response traits to test interactions between shading, plant competition, and herbivory.
+
+-   [@dukes2019]: [very relevant]{.ul} since they do measure both below-ground and above-ground plants (*i.e.,* plant dry mass, root dry mass, aboveground dry mass, root nodules per plant, and AMF colonization [arbuscules, vesicles, hyphae] to test for the "Enemy of My Enemy" hypothesis [@colautti2004] in terms of plant-soil feedback interaction among *Vincetoxicum rossicum* and eight co-occurring native plant species (*i.e.*, *Desmodium canadense, Solidago canadensis, Lespedeza hirta, Asclepias syriaca, Rudbeckia hirta, Lupus perennis, Andropogon gerardi*; see the paper for list of inclusion criteria for two separate experiment \#1 [five co-occurring native plants] and \#2 [four native nitrogen fixing plants]).
+
+-   [@ditommaso2018]: [very relevant]{.ul} since they do measure seed mass and dispersal distance for *Vincetoxicum rossicum* and *Vincetoxicum nigrum*. DiTomasso and colleagues did a seed-release experiment in Ithaca, NY (USA) where they tested for the interactions between seed release height and wind speed on the dispersal distances of both vines.
+
+-   [@ditommaso2018a]: [very relevant]{.ul} since they do measure a bunch of germination traits (*i.e.,* germination rates, seed viability, and germinability) in the persistent seed banks of *V. nigrum* and *V. rossicum* as part of an experiment where they manipulated four burial depths (*i.e.*,0, 1, 5, and 10 cm).
+
+-   [@milbrath2017]: [very relevant]{.ul} since they measured germination traits (*i.e.,* germination rates, seedling emergence rates) for *V. nigrum* and *V. rossicum,* as part of a field study (field or forest) to parameterize demographic data in a matrix population model.
+
+-   [@averill2016]: [very relevant]{.ul} since they measured aboveground traits related to intra- and interspecific photosynthetic performance (*i.e.,* maximum photosynthetic rate and specific leaf mass) for *V. nigrum* and *V. rossicum* in both field and greenhouse settings.
+
+-   [@day2016]: [very relevant]{.ul} since they measured mycorrhizal colonization (?) - and identified fungal species - associated with *V. rossicum* to determine if the fungi are pathogenic to two co-occurring native species (*Solidago canadensis* and *Asclepias syriaca*).
+
+-   [@day2015]: [very relevant]{.ul} since response traits (both belowground and aboveground) to invasion age in *V. rossicum* as part of a plant-soil feedback experiment where invasion age is from a space-for-time substitution sampling design.
+
+-   [@douglass2011]: [very relevant]{.ul} since they measure effect traits (allelopathy, or root exudates) on *V. nigrum* and *V. rossicum* on multiple co-occurring species.
+
+-   [@gibson2011]: [very relevant]{.ul} since they measure effect traits (allelopathy, or root exudates) on *V. nigrum* and *V. rossicum* on multiple co-occurring species.
+
+-   [@hotchkiss2008]: [very relevant]{.ul} since they measure response traits (polyembryony) of *V.rossicum* under different light environments.
+
+### Somewhat relevant
+
+-   [@malloch2020]: [somewhat relevant]{.ul}: more like impacts of DSV on soil microbial communities in urban regions; could be good for discussion on the "unknown" part of DSV functional ecology. Malloch and colleagues mostly quantified DSV cover as degree of invasion across an urbanization gradient in Toronto, Canada. [take notes later on, maybe after skimming trait-related papers]
+-   [@bugiel2018]: [somewhat relevant:]{.ul} more like impacts of DSV on soil microbial communities in urban regions; could be good for discussion on the "unknown" part of DSV functional ecology. Bugiel and colleagues mostly quantified DSV cover as degree of invasion in the Rouge National Park (Toronto, Canada) [take notes later on, maybe after skimming trait-related papers]
+-   [@thompson2018]: [somewhat relevant:]{.ul} more like impacts of DSV on soil microbial communities in urban regions; could be good for discussion on the "unknown" part of DSV functional ecology. Thompson and colleagues mostly quantified DSV cover as degree of invasion in the Finger Lakes region of New York state (USA) [take notes later on, maybe after skimming trait-related papers]
+-   [@macivor2017]: [somewhat relevant:]{.ul} more like impacts of DSV on pollinator populations in urban regions; could be good for discussion on the "unknown" part of DSV functional ecology. MacIvor and colleagues mostly quantified DSV biomass as degree of invasion in the Finger Lakes region of New York state (USA) [take notes later on, maybe after skimming trait-related papers]
+-   [@ernst2005]: [somewhat relevant:]{.ul} more like impacts of DSV on arthropod populations.
+
+### Read for later
+
+-   [@milbrath2018]: used matrix population modeling to identify life-history transitions (*i.e.,* seedling, young, mature plant) of *Vincetoxicum rossicum* impact of herbivory (biological control agents). This topic seems interesting, but it's out of my field of expertise. Took a closer look, and we could apply this to how functional traits affect growth rates across different life-history stages (see [@Gibert] for theoretical considerations as well as[@sundarapandian2015] a meta-analysis).
+-   [@milbrath2016]: response traits to herbivory (biological agent) and light in a greenhouse experiment.
+-   [@milbrath2016a]: response traits to artificial defoliation and clipping in a greenhouse experiment.
+-   [@liede-schumann2016]: SDMs for a lot of different *Vincetoxicum* species (interesting possible traits: tolerance, alkaloids, and autogamy)
+-   [@day2015a]: responses to invasion stage in *V. rossicum*
+-   [@sanderson2015]: response traits (shoot:root ratio) to different soil types
+-   [@magidow2013]: response traits (mostly germination traits) to different edaphic factors
+-   [@bongard2013]: traits (mycorrhizal association). Not sure if response or effect traits.
+-   [@bongard2013a]: traits (mycorrhizal association). Not sure if response or effect traits.
+-   [@weed2011]: response traits on aboveground components to herbivory from a biological control agent.
+-   [@maguire2011]: response traits (shoot-root ratio) on *V. nigrum* and *V.* *hirundinaria* to herbivory from a biological control agent. Not sure if this one is relevant since it does include *V. rossicum*
+-   [@doubleday2011]: response traits (germination traits) on *V. rossicum* to simulated herbivory
+-   [@averill2011]: response traits (seed, stem length) on *V. nigrum* and *V. rossicum* across time (I think...)
+-   [@weed2011b]: response traits (stem length, root biomass) on *V. nigrum* and *V. rossicum* to herbivory from two biological control agents.
+-   [@averill2010]: response traits (root to shoot biomass, seedling emergence [germinability]) for *V. rossicum* to different disturbance regimes.
+-   [@milbrath2008]: response traits on aboveground traits (e.g., root-shoot ratio, stem length) of *V. nigrum* and *V. rossicum*
+-   [@averill2008]: response traits (*i.e.*, seedling density?) of *V. rossicum* under disturbance regimes
+-   [@smith2006]: response traits (*i.e.*, germination rate) to different light environments and time (?)
+-   [@mckague2005]: response traits (*i.e.*,plant height) to disturbance regimes (*e.g.*, clipping)
+-   [@ladd2005]: measured seed mass. Not sure if response or effect trait tbh
+-   [@ditommaso2005]: measured seed traits. Not sure if response or effect trait tbh.
+-   [@stdenis2004]: measured seed traits. Not sure if response or effect trait tbh.
+-   [@cappuccino2002]: measured seed mass. Not sure if response or effect trait tbh.
+-   [@lawlor2002]: measured aboveground biomass to herbicides
+
+### Not relevant
+
+No measured traits on either *V. nigrum* or *V. rossicum* (as a primary research article). Although, these articles might still be useful for the review paper (*i.e.,* story-telling aspect, natural history etc..).
+
+Revisit this section later.
+
+-   [@leroux2016]
+
+-   [@oka2016]
+
+-   [@cadotte2017]
+
+-   [@leicht-young2015]
+
+-   [@livingstone2018]
+
+-   [@sundarapandian2015a]
+
+-   [@gibson2014]
+
+-   [@smith2014]
+
+-   [@sandilands2013]
+
+-   [@ditommaso2013]
+
+-   [@bourchier2013]
+
+-   [@hazlehurst2012]
+
+-   [@milbrath2012]
+
+-   [@kishore2012]
+
+-   [@gibson2012]
+
+-   [@solbreck2012]
+
+-   [@mendes-rodrigues2012]
+
+-   [@berner2011]
+
+-   [@weed2011a]
+
+-   [@mendes-rodrigues2011]
+
+-   (Bulani et al., 2011)
+
+-   [@west2011]
+
+-   [@weed2010]
+
+-   [@monty2010]
+
+-   [@milbrath2010]
+
+-   [@solbreck2007]
+
+-   [@casagrande2007]
+
+-   [@dibble2007]
+
+-   [@weston2005]
+
+-   [@ditommaso2011]
+
+-   [@cappuccino2004]
+
+-   [@ditommaso2003]
+
+-   [@mattila2003]
+
+-   [@sheeley1996]
+
+## General biology
+
+-   Family: Apocynaceae (subfamily Asclepiadoideae)
+
+-   Originally from Ukraine and Russia
+
+-   Introduced into North America from Europe in the mid- to late-1800s
+
+-   "Long-lived, herbaceous perennials that annually produce 1 to several twining stems from a subterranean, semi-woody root stock"
+
+-   "Most seedlings appear to emerge in the spring, and the plants may remain in a vegetative state for a few to several years before flowering"
+
+-   Common name: dog-strangling vines, swallow-wort
+
+-   Two species: *Vincetoxicum nigrum* and *Vincetoxicum rossicum.*
+
+-   *V. nigrum* prefers meadows while *V. rossicum* can occur in both meadows and understory forests
+
+## Trait-based ecology
+
+#### **Plant height**
+
+-   **Response or effect trait: o**n average, plant height of DSV was approx \~100 m compared to that of the resident community (\~50m) within a large urban national park in Toronto, Canada [@livingstone2020]. Here, this result could be interpret as DSV being a better competitor for light than the resident community. An important note about DSV height is this trait is affected by seasonal variability; in highly invaded communities, plant individuals of DSV at peak height tend to form twines to eventually form the distinctive dense monocultures, leading to a higher density of vegetation and thus enables stronger competition for light relative to the resident species. [@livingstone2020]
+-   **Response trait:** In the US (New York state), [@biazzo2019] did a long-term (7 years!) study by manipulating within-season mowing frequency to see if such disturbance events would reduce *Vincetoxicum rossicum* populations sizes as a potential management strategy. They measured at least four traits in different stem diameter classes: root dry mass (g), stem dry mass (g), stem diameter (mm), and % stems flowering. Generally speaking, they found shorter canopy height in two treatments (3x and 6x within-season mowing frequency) than the control (un-mowed). Not a surprising result to be honest, and the crown root density results is a bit more interesting.
+
+#### **Specific leaf area**
+
+-   On average, SLA of DSV was approx \~280 cm2/g compared to that of the resident community (\~180 cm2/g) within a large urban national park in Toronto, Canada [@livingstone2020]. Here, this result could be interpret as DSV being a better competitor for light (in term of photosynthetic capacity?) than the resident community.
+
+#### **Leaf carbon** **content**
+
+-   On average, leaf carbon content of DSV was approx \~45 % C compared to that of the resident community (\~40 % C) within a large urban national park in Toronto, Canada [@livingstone2020]. [That's not a big difference between those two groups; also not how to interpret this yet].
+
+#### **Leaf nitrogen content**
+
+-   On average, leaf nitrogen content of DSV was approx \~2.1 % N compared to that of the resident community (\~1.8 % N) within a large urban national park in Toronto, Canada [@livingstone2020]. [That's not a big difference between those two groups; also not how to interpret this yet].
+
+#### **Carbon to nitrogen ratio (%)**
+
+-   On average, carbon to nitrogen ratio was approx \~25 % C:N compared to that of the resident community (\~20 % C:N) within a large urban national park in Toronto, Canada [@livingstone2020]. [A bigger difference than leaf N and leaf C; also not sure how to internet this year]
+
+#### Root crown density
+
+-   **Response:** In the US (New York state), [@biazzo2019] did a long-term (7 years!) study by manipulating within-season mowing frequency to see if such disturbance events would reduce *Vincetoxicum rossicum* populations sizes as a potential management strategy. They measured at least four traits in different stem diameter classes: root dry mass (g), stem dry mass (g), stem diameter (mm), and % stems flowering. After four years, they found a dramatic decrease in crown root density (0.0625-m2) of large crowns partly because frequent mowing depleted the root reserves in the shallow soils where there is a higher chance of intraspecific competition. Although, the aftermath of the mowing would lead to more available light for increased *Vincetoxicum rossicum* seedling growth [@averill2010], which lends some support to the fluctuating resource availability hypothesis [@davis2000]. But, it takes 6 years for a seedling to grow into a mature plant individual so this accidental side benefit of mowing may have little consequence for impact and spread if mowing is indeed conducted every year.
+
+#### **Above-ground biomass**
+
+-   Milbrath and colleagues conducted a greenhouse experiment to test for the interactions between herbivory (by the bio-control agent, *Abrostola asclepiadis*), plant competition with *Elymus repens,* and shading on various traits of *Vincetoxicum rossicum* [@milbrath2019]. Averaged over different light conditions, severe defoliation treatments showed that feeding by *Abrostola asclepiadis* larvae lead to a decrease in the stem biomass of *Vincetoxicum rossicum* seedlings*.* Higher crown bud production, dry mass, and stem length occurred under higher light compared to shaded conditions. For mature plants, insect feeding reduced aboveground dry mass during high levels of defoliation.
+-   Dukes and colleague conducted a green experiment to test for possible plant-soil feedback interactions between *Vincetoxicum rossicum* and five native co-occurring species for both invaded ("invaded by *Vincetoxicum rossicum"*) and non-invaded soils [@dukes2019a]. In terms of net-biotic effects on rhizosphere soils for Experiment 1, soil biota inhibited shoot biomass of every native plant species, except for *Desmodium canadense* (while there was biomass promotion for *Vincetoxicum rossicum*). In experiment 2, there was a positive effect of both live and sterilized soils on the root biomass of *Desmodium canadense,* while we see clear opposite trends for *Lespedeza hirta* and (oddly) *Vincetoxicum rossicum*). *Desmodium canadense* and *Lupus perennis* grow quite well in soils invaded by *Vincetoxicum rossicum,* suggest a possible competitive advantage compared to the other native species (via invasion resistance in restored communities), but practitioners should account for shared mutualisms between native and non-native species.
+
+#### **Root biomass**
+
+-   Milbrath and colleagues conducted a greenhouse experiment to test for the interactions between herbivory (by the bio-control agent, *Abrostola asclepiadis*), plant competition with *Elymus repens,* and shading for defoliation of *Vincetoxicum rossicum* [@milbrath2019]. Averaged over different light conditions, different levels of defoliation by *Abrostola asclepiadis* larvae lead to a decrease in the root biomass. [Maybe root reserves were depleted to allocates resources to leaves and stems to compensate for loss of aboveground biomass].
+-   Dukes and colleague conducted two separate green experiment to test for possible plant-soil feedback interactions between *Vincetoxicum rossicum* and five native co-occurring species for both invaded ("invaded by *Vincetoxicum rossicum"*) and non-invaded soils [@dukes2019a]. In terms of net-biotic effects on rhizosphere soils for Experiment 1, soil biota inhibited root biomass of every native plant species, except for *Desmodium canadense* (while there was biomass promotion for *Vincetoxicum rossicum*). In experiment 2, there was a positive effect of both live and sterilized soils on the root biomass of *Asclepias syriaca* and *Desmodium canadense,* while we see opposite trends for *Lespedeza hirta* and (oddly) *Vincetoxicum rossicum*).
+
+#### Root nodules per plant
+
+-   **Response trait:** Dukes and colleague conducted two separate green experiment to test for possible plant-soil feedback interactions between *Vincetoxicum rossicum* and five native co-occurring species for both invaded ("invaded by *Vincetoxicum rossicum"*) and non-invaded soils [@dukes2019a]. In Experiment 1, *Desmodium canadense* produced more root nodules per plant in invaded (\~110) compared to uninvaded (\~10) soils, but no clear trends for the other four native plants. In Experiment 2, *Desmodium canadense* produced more root nodules per plant in invaded (\~200) compared to uninvaded (\~20) soils - similar trends for *Lupus perennis* but there is a weaker effect size.
+
+#### **AMF colonization (arbuscules, vesicles, and hyphae)**
+
+-   **Response trait:** Day and colleagues were interested in seeing if residence time lead to a decrease in the accumulation of below-ground fungal pathogens associated with *V. rossicum* [@day2015]. To test this hypothesis, they took soil samples of *V. rossicum* from different sites, representing different invasion ages (0 - 100 years), as a space-for-time substitution sampling design . Using these soil samples, they then did a plant-soil feedback experiment by planting seeds of *V. rossicum* in each invasion age, and then quantified two important set of variables across different invasion ages: (1) changes in total biomass, and root-to-shoot ratio, (2) the soil microbial community that resides in the soil, and (3) changes in AMF colonization in the arbuscules, vesicles, and hyphae. Overall, they found that (1) growth of *V. rossicum* was not affected by different invasion ages, (2) there was no change in soil community composition, species richness, or abundance across different invasion ages, and (3) high colonization rates of AM fungi on *V. rossicum* (from a broad range of fungal taxa) across different invasion ages, which can help form quick establishment at sites and acquire soil nutrients (so higher invasibility here). Also, *V. rossicum* form (-)- antofine, a known allelopathic secondary compound, but it is possible that this compound acts a filter and promotes fungal taxa that are resistant to it. This filter could explain the consistent temporal trends seen in soil microbial diversity.
+
+-   **Effect trait:** Day and colleagues identified 18 fungal isolates (*e,g,.*, *Cadophora* sp., *Colletotrichum* sp., *Ilyonectria* sp., *Ilyonectria radicicola, Macrophomina phaseolina, Phaeocytostroma* sp., and *Phomopsis* sp.) from roots of *V. rossicum* [@day2016]. These root samples were collected in Southern Ontario, Canada as part of two experimental trials (\#1 - colonization of fungi to *V. rossicum*, \#2 - exposure of pathogenic fungi to native plant species). The authors were interested in seeing if *V. rossicum* acts as a pathogenic reservoir to two co-occurring native species (*i.e.*, *Solidago canadensis* and *Asclepias syriaca*) by reducing their plant growth. For Trial \#1, four of the seven fungal isolates increased the root-shoot ratio of *V. rossicum,* which leads to a very dense root biomass and offers a competitive advantage. For Trial \#2, they found that *S. canadensis* reduced their plant growth (total biomass) in the presence of three different pathogenic fungi (*i.e.*, *Cadophora* sp., *I. radicicola*, and *M. phaseolinaI*). However, *A. syriaca* was not affected by the mixture of fungi nor any of the individual fungal isolates. Taken together, there appears to be a synergistic effect of multiple pathogenic fungi on particular native plants (*i.e., S. canadensis*). The neutral effects on *A. syriaca* could be partly explained by its close phylogenetic relatedness to *V. rossicum*
+
+-   **Effect trait:** Dukes and colleague conducted two separate green experiment to test for possible plant-soil feedback interactions between *Vincetoxicum rossicum* and five native co-occurring species for both invaded ("invaded by *Vincetoxicum rossicum"*) and non-invaded soils [@dukes2019a]. In Experiment 1, *Desmodium canadense* had a higher AMF hyphae colonization in the invaded (\~30%) than uninvaded soils (\~10%), whereas there was no large differences between both soils for the other four native species. Similar trends can be seen for AMF vesicle colonization in *Desmodium canadense* in the invaded (\~5%) than the uninvaded (\~1%) soils. No clear trends seen for AMF arbuscule colonization.
+
+#### Root exudates
+
+-   **Effect trait:** As a lab experiment, Douglas and colleagues tested the impacts of a root exudate ["(-)-antofine"] from *V. rossicum* and *V. nigrum* on the root (or shoot) elongation and germination of ten indicator species (*e.g., Poa annua*, *Echinochloa crus-gallis*, *Solanum lycopersicum, Asclepias syriaca, Asclepias tuberosa*) [@douglass2011]. They found reduced root elongation of butterfly milkweed (39%) and large crabgrass (16%) when exposed to *V. rossicum* root exudates. They also found reduced shoot elongation of orchard grass (17%) when exposed to *V. rossicum* root exudates. No community ecology here (I think) and there were different trends for *V. nigrum*. It seems like effect trait is species- and density-dependent.
+
+-   **Effect trait:** Gibson and colleagues found extracts of the (-)-antofine in *V. rossicum* and *V. nigrum* across the shoots, leaves, and roots [@gibson2011a]. In a lab experiments (using bioassays), the root length of closely-related seedlings (*i.e.*, *Asclepias syriaca*, *Asclepias tuberosa*, and *Apocynum cannabinum*) were inhibited when exposed to (-)-antofine. This phototoxicity of *V. rossicum* and *V. nigrum* from such exudates provides some evidence of the "novel weapons" hypothesis. Since this study was done in very controlled conditions, soil type and pH should affect adsorption, stability, and availability of antofine as a potential allelochemical.
+
+-   **Effect trait**: Mogg and colleagues found that root exudates (as (-)-antofine) inhibited the growth of belowground taxa such as yeast and fungi [@mogg2008a]. There is also additional anti-insect compounds in the root extracts of *V. rossicum* that inhibited the growth of masked caterpillars.
+
+#### **Terminal velocity**
+
+-   "Biophysical traits reflect the physical--chemical properties of the seed coat, the endosperm or the embryo, and they have to be measured in the laboratory" (cite that Jiménez‐Alfaro et al. 2016. J Veg Sci).
+
+-   **Response or effect trait:** DiTomasso and colleagues did a seed-release experiment in Ithaca, NY (USA) where they tested for the interactions between seed release height and wind speed on the dispersal distances of both vines [@ditommaso2018]. Generally speaking, they found that release height and wind speed mattered for *V. nigrum* while only height mattered for *V. rossicum,* which could be partially explained by interspecific differences in seed mass (*i.e.*, heavier seeds for *V. nigrum*). Wind speed seems to be more important for long-distance dispersal at lower release heights for both vines, although turbulence and updrafts could play a key role in altering dispersal distances. In addition, heavier seeds of *V. rossicum* lead to increase in the settling rate (*aka* terminal velocity) across three different dispersal distances (*i.e.,* short, medium, and long). Finally, with the exception of conditions with high winds and high settling rates, the slower a propagule of *V. rossicum* falls, the more opportunity there is for wind to move the propagule horizontally before it comes to rest on the ground.
+
+#### **Germination rates**
+
+-   "Germination traits are those related to the time and conditions required by a seed to germinate, reflecting essential physiological processes controlled by the environment [@jiménezalfaro2016]. Cite that Grubb 1977 paper too!!
+
+-   **Response trait:** DiTomasso and colleagues did a four-year seed bank dynamic study where they added a constant density of *V. nigrum* and *V. rossicum* (one hundred seedlings) to 160 micro-pots of different burial depths (0, 1, 5, 10, and 15 cm) as part of a common garden experiment [@ditommaso2018a]. Both vines form persistent seed banks, and so germination rates may be quantified as the number of emerged seedlings per year (cumulative seedling emergence) as opposed to a shorter time-frame (per day\_ for annual seed banks. For both vines, they found that the vast majority of seedlings (92%) emerged in the first year, followed by a smaller fraction (8%) in the second year, and then no seedlings emerged in the third and fourth year. Note that the seed is the basic unit of this study, but it is possible to have multiple seedlings emerge from a single embryonic seed (*aka* polyembryony).
+
+-   **Response trait:** Milbrath and colleagues measured germination rates for *V. nigrum* and *V. rossicum,* as part of a field study (field or forest) to parameterize demographic data in a matrix population model [@milbrath2017]. For both species, they found that most seedlings emerged in the first year (5-39% depending on the habitat), followed by 0-11% in the second, and then only a few seedlings emerged in the third at any site. It appears that germination rates are higher in field populations compared to forest habitats. Such differences may be due to multiple factors that affect seedling mortality, such as low-light stress, predation from slugs, or smothering of seedlings from leaf litter that occur in forests.
+
+#### **Germinability**
+
+-   "Germination traits are those related to the time and conditions required by a seed to germinate, reflecting essential physiological processes controlled by the environment"[@jiménezalfaro2016]. Cite that Grubb 1977 paper too!!
+
+-   **Response trait:** DiTomasso and colleagues did a four-year seed bank dynamic study where they added a constant density of *V. nigrum* and *V. rossicum* (one hundred seedlings) to 160 micro-pots of different burial depths (0, 1, 5, 10, and 15 cm) as part of a common garden experiment [@ditommaso2018a]. They found higher germinability (%) at shallow soil depths for both vines, although generally speaking, *V.nigrum* had higher seedling emergence than *V. rossicum*. Most of the seeds that germinated at the 5 cm depth (*V. rossicum*) and 10 cm depth (both vines) died before reaching the soil surface. These findings suggest that the larger seed size of *V. nigrum* compared to *V. rossicum* grants more available resources to allow emergence from deeper soil depths.
+
+#### Maximum photosynthetic rate
+
+-   **Response trait:** Averill and colleagues tested for photosynthetic performance between *V. nigrum* and *V. rossicum* in both greenhouse and field settings that vary in amount of sunlight [@averill2016]. In the common garden, *V. nigrum* had a higher maximum photosynthetic rate (37%) than *V. rossicum.* This finding suggests that plants with high photosynthetic capacity tend to perform well in high-light environments. Although both species are physiologically similar, both naturally occur at forest edges. In shaded environments, *V. rossicum* photosynthetic rates were lowest in the forest habitat among the field habitats investigated.
+
+#### Specific leaf mass
+
+-   **Response trait:** Averill and colleagues tested for photosynthetic performance between *V. nigrum* and *V. rossicum* in both greenhouse and field settings that vary in amount of sunlight [@averill2016]. In the greenhouse, they found that *V. nigrum* had 19% higher SLM than *V. rossicum*
+
+#### Polyembryony
+
+-   **Effect trait:** The costs and benefits of polyembrony may vary with low-light (*e.g.*, understory forests) and high-light (*e.g.*, open meadows). Seedlings arising from polyembryonic seeds may have slower initial growth and may be at a competitive disadvantage relative to those arising from singlets, especially under low light. Under the stress of low light, larger seeds may be more advantageous to plants than smaller seeds. Here, Hotchkiss and colleagues hypothesized that polyembryony has a positive effect on survival (defined here as the presence of at least one shoot) and growth in *V. rossicum*, especially under the greater light availabilities of forest gaps relative to forest understories [@hotchkiss2008a]. As a field observational study, they found that the effect of embryo number on survival, height, and aboveground biomass of *V. rossicum* did not vary with habitat. The absence of a polyembryony advantage could be due to two factors: (1) doublets are at a competitive disadvantage relative to singlets who have a greater seed reserve, and (2) the study design used transplants.
+
+-   **Effect trait:** Over 50% of seeds produced by *V. rossicum* are polyembryonic - where a single seed can produce multiple embryos. This particular trait may confer a competitive advantage for *V. rossicum* over other co-occurring native species via three different mechanisms: (1) increasing the fitness of a new population via the Allee effect, (2) by increasing the likelihood that at least one embryo individual will survive through a "bet‐hedging" strategy, or (3) by the direct competitive advantage of having multiple stems that result from multiple embryo individuals. To test these hypotheses, Blanchard and colleagues did a greenhouse experiment where they manipulated the number of seeds produced from a single embryo (1, 2, and 3) and tested for interspecific interactions (paired *V. rossicum* with either *A. syriaca* or *S. canadensis*), or intraspecific interactions (paired embryos 1, 2,3 with each other) [@blanchard2010a]. Overall. they found that higher number of embryos did not perform better than lower numbers in terms of intraspecific interactions. Similarly, polyembryony did not seem to confer competitive advantage to the two co-occurring species. However, triplet *V. rossicum* seed individuals produced more belowground biomass than singlets under interspecific competition, which suggests a preference to allocate more belowground resources whereas a mono-culture might be more fecund (supporting the Allee effect). Additionally, polyembryony may be more relevant for interspecific competition in a recently disturbed sites (maybe via propagule pressure?). Polyembryonic *V. rossicum* outperforms singlet seeds for belowground biomass but not aboveground biomass due to rhizosphere priming, the ability of roots to alter the soil surrounding them.
+
+### Functional diversity
+
+-   Out of 54 species (including *Vincetoxicum rossicum*) in an urban national park, Livingstone et al. calculated functional diversity along an invasion gradient (so varying degree of V*incetoxicum rossicum* abundance), using five traits (*i.e.*, plant height, specific leaf area, leaf C, leaf N, C:N), across different "dimensions": community-weighted means (for each trait), dispersion , divergence, and richness [@livingstone2020]. [Come back to this for info on spatial scale, degree of invasion, and impact of invasion on ecosystem functions (flower production and above-ground biomass)].
+
+-   Sodhi and colleagues measured seven different traits (*i.e.*, height, specific leaf area, leaf dry matter content, leaf percent carbon, stem width, number of leaves, and leaf percent nitrogen) to investigate the impacts of *Vincetoxicum rossicum* on resident communities in the lens of a functional trait-based framework through an invasion gradient in a large urban national Park in Toronto, Canada. Specifically, they incorporated all seven traits into three family of metrics that encompass different aspects of plant community structure: (1) community weighted traits, which provides information on the contribution of dominant species (which likely includes *Vincetoxicum rossicum;* see [@grime1998])*,* (2) range in trait values which tells whether or not the invader has occupied novel trait space [@ordonez2010], and (3) finally distance to invader, which gives insight on the niche overlap between the invader and the resident community [@macdougall2009b]. The authors found that invasion by *Vincetoxicum rossicum* creates a deterministic filter that alters herbaceous plant communities in different ways across two different habitats (meadow and understory). For example, highly-invaded communities in meadow habitats tend to have faster-growing species with higher water content but have fewer leaves. In understory habitats, a high degree of invasion leads to a taller plant community with lower water content and greater nitrogen content in the leaves. Also, there was a higher trait range of specific leaf area with increasing degree of invasion in the meadow habitats, but relative of abundance of co-occurring species would decrease if they had lower DTI values in the understory habitats. Such differences between the two habitats are likely due to the different environmental conditions in meadows and understory - species have to compete for light in meadow whereas species are already adapted to low-light in understory.
+
+# What we don't know about DSV
+
+-   Root traits as effects for ecosystem functioning [@freschet]
+
+-   Ontogenic stages for the response-effect trait framework [@Gibert]
+
+-   Multitrophic interactions: plant and insect traits (esp. for biological control agents) [relevant citation?]
+
+-   The need to consider microbial diversity when assessing the functional ecology of plant-soil interactions and in the context of plant invasions [@day2016].
+
+    -   The generality and applicability of pathogen reservoirs in invasion needs to be verified by testing in multiple plant communities and species.
+
+    -   The relative importance of microbial interactions for determining plant community structure and the conditions under which this may be important relative to other mechanisms in natural communities is an area that requires more research.
+
+    -   Further research incorporating multiple plants from different families and plant communities would help us to better understand the importance of phylogeny and pathogenic effects within multi-species assemblages.
+
+    -   In addition, we need an understanding of whether these plants and pathogens are at appropriate densities for pathogen transfer to occur and the conditions under which this may be important.
+
+# References
